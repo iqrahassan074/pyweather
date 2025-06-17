@@ -7,7 +7,7 @@ API_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 translations = {
     "en": {
-        "Weather App": "🌤️ Weather App",
+        "Weather App": "🌤️ pyWeather",
         "placeholder": "Enter city name",
         "language": "Language",
         "search": "Search",
