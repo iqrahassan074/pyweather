@@ -1,13 +1,13 @@
 # 🌦️ PyWeather
 
 **PyWeather** is a simple, multilingual weather app built with **Python** and **Streamlit**.  
-It supports English, Hindi, and Urdu languages and provides real-time weather data using the OpenWeatherMap API.
+It supports English, Hindi, Urdu, arabic, bangoli, and tarkish languages and provides real-time weather data using the OpenWeatherMap API.
 
 ---
 
 ## 🚀 Features
 
-- Multilingual support: English, Hindi, and Urdu  
+- Multilingual support: English, Hindi, urdu, arabic, bangoli and tarkish
 - Current weather: temperature, condition, min/max temperatures  
 - Localized day and month names  
 - Easy to run with Streamlit  
@@ -20,11 +20,3 @@ It supports English, Hindi, and Urdu languages and provides real-time weather da
 - Streamlit  
 - OpenWeatherMap API
 
----
-
-## 📦 Installation
-
-1. Clone the repo  
-```bash
-git clone https://github.com/yourusername/pyweather.git
-cd pyweather
